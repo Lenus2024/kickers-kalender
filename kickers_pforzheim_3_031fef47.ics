@@ -9,15 +9,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:fussballde-520051015@homeassistant.local
-DTSTAMP:20260828T110508Z
-LAST-MODIFIED:20260828T110508Z
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
 SEQUENCE:0
 DTSTART;TZID=Europe/Berlin:20260725T160000
 DURATION:PT2H
 SUMMARY:⚽ 1.CfR Pforzheim 3 – Kickers Pforzheim 3
-DESCRIPTION:Auswärtsspiel · FS\nQuelle: fussball.de\nhttps://www.fussba
- ll.de/mannschaft/1cfr-pforzheim-3-1cfr-pforzheim-baden/-/saison/2627/tea
- m-id/02M59H2T34000000VS5489B2VUHJA7LU
+DESCRIPTION:Auswärtsspiel · Freundschaftsspiel\nQuelle: fussball.de\nht
+ tps://www.fussball.de/mannschaft/1cfr-pforzheim-3-1cfr-pforzheim-baden/-
+ /saison/2627/team-id/02M59H2T34000000VS5489B2VUHJA7LU
 URL:https://www.fussball.de/mannschaft/1cfr-pforzheim-3-1cfr-pforzheim-ba
  den/-/saison/2627/team-id/02M59H2T34000000VS5489B2VUHJA7LU
 LOCATION:Kunstrasenplatz\, Stadion im Brötzinger Tal (Kunstrasen)\, Adol
@@ -25,15 +25,15 @@ LOCATION:Kunstrasenplatz\, Stadion im Brötzinger Tal (Kunstrasen)\, Adol
 END:VEVENT
 BEGIN:VEVENT
 UID:fussballde-520051016@homeassistant.local
-DTSTAMP:20260828T110508Z
-LAST-MODIFIED:20260828T110508Z
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
 SEQUENCE:0
 DTSTART;TZID=Europe/Berlin:20260829T110000
 DURATION:PT2H
 SUMMARY:⚽ Kickers Pforzheim 3 – Sportkameradschaft Hagenschieß
-DESCRIPTION:Heimspiel · FS\nQuelle: fussball.de\nhttps://www.fussball.de
- /mannschaft/sv-kickers-pforzheim-3-sv-kickers-pforzheim-baden/-/saison/2
- 627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
+DESCRIPTION:Heimspiel · Freundschaftsspiel\nQuelle: fussball.de\nhttps:/
+ /www.fussball.de/mannschaft/sv-kickers-pforzheim-3-sv-kickers-pforzheim-
+ baden/-/saison/2627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
 URL:https://www.fussball.de/mannschaft/sv-kickers-pforzheim-3-sv-kickers-
  pforzheim-baden/-/saison/2627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
 LOCATION:Kunstrasenplatz\, Sportanlage Wilferdinger Höhe (Kunstrasen)\, 
@@ -41,15 +41,15 @@ LOCATION:Kunstrasenplatz\, Sportanlage Wilferdinger Höhe (Kunstrasen)\,
 END:VEVENT
 BEGIN:VEVENT
 UID:fussballde-520051020@homeassistant.local
-DTSTAMP:20260828T110508Z
-LAST-MODIFIED:20260828T110508Z
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
 SEQUENCE:0
 DTSTART;TZID=Europe/Berlin:20260905T110000
 DURATION:PT2H
 SUMMARY:⚽ Kickers Pforzheim 3 – FC Germ. Forst 2
-DESCRIPTION:Heimspiel · FS\nQuelle: fussball.de\nhttps://www.fussball.de
- /mannschaft/sv-kickers-pforzheim-3-sv-kickers-pforzheim-baden/-/saison/2
- 627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
+DESCRIPTION:Heimspiel · Freundschaftsspiel\nQuelle: fussball.de\nhttps:/
+ /www.fussball.de/mannschaft/sv-kickers-pforzheim-3-sv-kickers-pforzheim-
+ baden/-/saison/2627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
 URL:https://www.fussball.de/mannschaft/sv-kickers-pforzheim-3-sv-kickers-
  pforzheim-baden/-/saison/2627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
 LOCATION:Kunstrasenplatz\, Sportanlage Wilferdinger Höhe (Kunstrasen)\, 
@@ -57,31 +57,63 @@ LOCATION:Kunstrasenplatz\, Sportanlage Wilferdinger Höhe (Kunstrasen)\,
 END:VEVENT
 BEGIN:VEVENT
 UID:fussballde-520051017@homeassistant.local
-DTSTAMP:20260828T110508Z
-LAST-MODIFIED:20260828T110508Z
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
 SEQUENCE:0
 DTSTART;TZID=Europe/Berlin:20260906T103000
 DURATION:PT2H
 SUMMARY:⚽ Kickers Pforzheim 3 – VfB Knielingen 3
-DESCRIPTION:Heimspiel · FS\nQuelle: fussball.de\nhttps://www.fussball.de
- /mannschaft/sv-kickers-pforzheim-3-sv-kickers-pforzheim-baden/-/saison/2
- 627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
+DESCRIPTION:Heimspiel · Freundschaftsspiel\nQuelle: fussball.de\nhttps:/
+ /www.fussball.de/mannschaft/sv-kickers-pforzheim-3-sv-kickers-pforzheim-
+ baden/-/saison/2627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
 URL:https://www.fussball.de/mannschaft/sv-kickers-pforzheim-3-sv-kickers-
  pforzheim-baden/-/saison/2627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
 LOCATION:Kunstrasenplatz\, Sportanlage Wilferdinger Höhe (Kunstrasen)\, 
  Heidenheimer Str. 4\, 75179 Pforzheim
 END:VEVENT
 BEGIN:VEVENT
+UID:fussballde-520051025@homeassistant.local
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20260907T180000
+DURATION:PT2H
+SUMMARY:⚽ 1.FC Nußbaum – Kickers Pforzheim 3
+DESCRIPTION:Auswärtsspiel · Freundschaftsspiel\nQuelle: fussball.de\nht
+ tps://www.fussball.de/mannschaft/1fc-nussbaum-1fc-nussbaum-baden/-/saiso
+ n/2627/team-id/0319JDLRDG000000VS5489BRVVNAT1LG
+URL:https://www.fussball.de/mannschaft/1fc-nussbaum-1fc-nussbaum-baden/-/
+ saison/2627/team-id/0319JDLRDG000000VS5489BRVVNAT1LG
+LOCATION:Rasenplatz\, 1.FC Nußbaum\, Schlettichwald 1\, 75245 Neulingen-
+ Nußbaum
+END:VEVENT
+BEGIN:VEVENT
+UID:fussballde-520014095@homeassistant.local
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
+SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20260915T180000
+DURATION:PT2H
+SUMMARY:⚽ SpVgg Durlach-Aue 2 – Kickers Pforzheim 3
+DESCRIPTION:Auswärtsspiel · Freundschaftsspiel\nQuelle: fussball.de\nht
+ tps://www.fussball.de/mannschaft/spvgg-durlach-aue-2-spvgg-durlach-aue-b
+ aden/-/saison/2627/team-id/011MICUH54000000VTVG0001VTR8C1K7
+URL:https://www.fussball.de/mannschaft/spvgg-durlach-aue-2-spvgg-durlach-
+ aue-baden/-/saison/2627/team-id/011MICUH54000000VTVG0001VTR8C1K7
+LOCATION:Rasenplatz\, ASV Wolfartsweier\, Horbenloch (Gewann) 2\, 76228 K
+ arlsruhe
+END:VEVENT
+BEGIN:VEVENT
 UID:fussballde-320236004@homeassistant.local
-DTSTAMP:20260828T110508Z
-LAST-MODIFIED:20260828T110508Z
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
 SEQUENCE:0
 DTSTART;TZID=Europe/Berlin:20260919T141500
 DURATION:PT2H
 SUMMARY:⚽ Kickers Pforzheim 3 – FSV Buckenberg 3
-DESCRIPTION:Heimspiel · ME\nQuelle: fussball.de\nhttps://www.fussball.de
- /mannschaft/sv-kickers-pforzheim-3-sv-kickers-pforzheim-baden/-/saison/2
- 627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
+DESCRIPTION:Heimspiel · Meisterschaft\nQuelle: fussball.de\nhttps://www.
+ fussball.de/mannschaft/sv-kickers-pforzheim-3-sv-kickers-pforzheim-baden
+ /-/saison/2627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
 URL:https://www.fussball.de/mannschaft/sv-kickers-pforzheim-3-sv-kickers-
  pforzheim-baden/-/saison/2627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
 LOCATION:Kunstrasenplatz\, Sportanlage Wilferdinger Höhe (Kunstrasen)\, 
@@ -89,46 +121,65 @@ LOCATION:Kunstrasenplatz\, Sportanlage Wilferdinger Höhe (Kunstrasen)\,
 END:VEVENT
 BEGIN:VEVENT
 UID:fussballde-320236010@homeassistant.local
-DTSTAMP:20260828T110508Z
-LAST-MODIFIED:20260828T110508Z
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
 SEQUENCE:0
 DTSTART;TZID=Europe/Berlin:20260925T183000
 DURATION:PT2H
 SUMMARY:⚽ FC Vikt. Enzberg – Kickers Pforzheim 3
-DESCRIPTION:Auswärtsspiel · ME\nQuelle: fussball.de\nhttps://www.fussba
- ll.de/mannschaft/fc-vikt-enzberg-fc-vikt-enzberg-baden/-/saison/2627/tea
- m-id/01OIEO3AK0000000VV0AG811VSF3K54T
+DESCRIPTION:Auswärtsspiel · Meisterschaft\nQuelle: fussball.de\nhttps:/
+ /www.fussball.de/mannschaft/fc-vikt-enzberg-fc-vikt-enzberg-baden/-/sais
+ on/2627/team-id/01OIEO3AK0000000VV0AG811VSF3K54T
 URL:https://www.fussball.de/mannschaft/fc-vikt-enzberg-fc-vikt-enzberg-ba
  den/-/saison/2627/team-id/01OIEO3AK0000000VV0AG811VSF3K54T
 LOCATION:Rasenplatz\, FC Vikt. Enzberg\, Kanalstr. 10\, 75417 Mühlacker
 END:VEVENT
 BEGIN:VEVENT
-UID:fussballde-320236011@homeassistant.local
-DTSTAMP:20260828T110508Z
-LAST-MODIFIED:20260828T110508Z
+UID:fussballde-920062003@homeassistant.local
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
 SEQUENCE:0
+DTSTART;TZID=Europe/Berlin:20260929T180000
+DURATION:PT2H
+SUMMARY:⚽ JSG PSG Pforzheim/​SpVgg Dillweißenstein 2 – Kickers Pfo
+ rzheim 3
+DESCRIPTION:Auswärtsspiel · Pokal\nQuelle: fussball.de\nhttps://www.fus
+ sball.de/mannschaft/jsg-psg-pforzheim-spvgg-dillweissenstein-2-post-sg-p
+ forzheim-baden/-/saison/2627/team-id/01SN13750C000000VS548985VU8O1RK1
+URL:https://www.fussball.de/mannschaft/jsg-psg-pforzheim-spvgg-dillweisse
+ nstein-2-post-sg-pforzheim-baden/-/saison/2627/team-id/01SN13750C000000V
+ S548985VU8O1RK1
+LOCATION:Rasenplatz\, PSG 05 Pforzheim\, Hercyniastr./Büchenbronner St\,
+  75173 Pforzheim
+END:VEVENT
+BEGIN:VEVENT
+UID:fussballde-320236011@homeassistant.local
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Berlin:20261003T130000
 DURATION:PT2H
 SUMMARY:⚽ JSG Kieselbronn /​ Ölbronn-Dürrn – Kickers Pforzheim 3
-DESCRIPTION:Auswärtsspiel · ME\nQuelle: fussball.de\nhttps://www.fussba
- ll.de/mannschaft/jsg-kieselbronn-oelbronn-duerrn-1fc-kieselbronn-baden/-
- /saison/2627/team-id/02TO03RU1C000000VS5489BSVTNMVP4D
+DESCRIPTION:Auswärtsspiel · Meisterschaft\nQuelle: fussball.de\nhttps:/
+ /www.fussball.de/mannschaft/jsg-kieselbronn-oelbronn-duerrn-1fc-kieselbr
+ onn-baden/-/saison/2627/team-id/02TO03RU1C000000VS5489BSVTNMVP4D
 URL:https://www.fussball.de/mannschaft/jsg-kieselbronn-oelbronn-duerrn-1f
  c-kieselbronn-baden/-/saison/2627/team-id/02TO03RU1C000000VS5489BSVTNMVP
  4D
-LOCATION:Rasenplatz\, 1. FC Kieselbronn\, Jahnstr. 1\, 75249 Kieselbronn
+LOCATION:Rasenplatz\, Sportplatz Ölbronn\, Bergstr. 30\, 75248 Ölbronn-
+ Dürrn
 END:VEVENT
 BEGIN:VEVENT
 UID:fussballde-320236019@homeassistant.local
-DTSTAMP:20260828T110508Z
-LAST-MODIFIED:20260828T110508Z
-SEQUENCE:0
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Berlin:20261010T151500
 DURATION:PT2H
-SUMMARY:⚽ Kickers Pforzheim 3 – FC Germ. Singen 2
-DESCRIPTION:Heimspiel · ME\nQuelle: fussball.de\nhttps://www.fussball.de
- /mannschaft/sv-kickers-pforzheim-3-sv-kickers-pforzheim-baden/-/saison/2
- 627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
+SUMMARY:⚽ Kickers Pforzheim 3 – FC Germ. Singen 2 Flex
+DESCRIPTION:Heimspiel · Meisterschaft\nQuelle: fussball.de\nhttps://www.
+ fussball.de/mannschaft/sv-kickers-pforzheim-3-sv-kickers-pforzheim-baden
+ /-/saison/2627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
 URL:https://www.fussball.de/mannschaft/sv-kickers-pforzheim-3-sv-kickers-
  pforzheim-baden/-/saison/2627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
 LOCATION:Kunstrasenplatz\, Sportanlage Wilferdinger Höhe (Kunstrasen)\, 
@@ -136,15 +187,15 @@ LOCATION:Kunstrasenplatz\, Sportanlage Wilferdinger Höhe (Kunstrasen)\,
 END:VEVENT
 BEGIN:VEVENT
 UID:fussballde-320236022@homeassistant.local
-DTSTAMP:20260828T110508Z
-LAST-MODIFIED:20260828T110508Z
-SEQUENCE:0
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Berlin:20261017T143000
 DURATION:PT2H
-SUMMARY:⚽ Fvgg 08 Mühlacker – Kickers Pforzheim 3
-DESCRIPTION:Auswärtsspiel · ME\nQuelle: fussball.de\nhttps://www.fussba
- ll.de/mannschaft/fvgg-08-muehlacker-fvgg-08-muehlacker-baden/-/saison/26
- 27/team-id/02TOUR2AC0000000VS5489BSVTNMVP4D
+SUMMARY:⚽ Fvgg 08 Mühlacker Flex – Kickers Pforzheim 3
+DESCRIPTION:Auswärtsspiel · Meisterschaft\nQuelle: fussball.de\nhttps:/
+ /www.fussball.de/mannschaft/fvgg-08-muehlacker-fvgg-08-muehlacker-baden/
+ -/saison/2627/team-id/02TOUR2AC0000000VS5489BSVTNMVP4D
 URL:https://www.fussball.de/mannschaft/fvgg-08-muehlacker-fvgg-08-muehlac
  ker-baden/-/saison/2627/team-id/02TOUR2AC0000000VS5489BSVTNMVP4D
 LOCATION:Rasenplatz\, Fvgg. 08 Mühlacker\, Rappstr. 30\, 75417 Mühlacke
@@ -152,15 +203,15 @@ LOCATION:Rasenplatz\, Fvgg. 08 Mühlacker\, Rappstr. 30\, 75417 Mühlacke
 END:VEVENT
 BEGIN:VEVENT
 UID:fussballde-320236034@homeassistant.local
-DTSTAMP:20260828T110508Z
-LAST-MODIFIED:20260828T110508Z
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
 SEQUENCE:0
 DTSTART;TZID=Europe/Berlin:20261107T163000
 DURATION:PT2H
 SUMMARY:⚽ JSG Heckengäu 2 – Kickers Pforzheim 3
-DESCRIPTION:Auswärtsspiel · ME\nQuelle: fussball.de\nhttps://www.fussba
- ll.de/mannschaft/jsg-heckengaeu-2-fv-tiefenbronn-baden/-/saison/2627/tea
- m-id/02MD0D6890000000VS5489B1VV4JLPLE
+DESCRIPTION:Auswärtsspiel · Meisterschaft\nQuelle: fussball.de\nhttps:/
+ /www.fussball.de/mannschaft/jsg-heckengaeu-2-fv-tiefenbronn-baden/-/sais
+ on/2627/team-id/02MD0D6890000000VS5489B1VV4JLPLE
 URL:https://www.fussball.de/mannschaft/jsg-heckengaeu-2-fv-tiefenbronn-ba
  den/-/saison/2627/team-id/02MD0D6890000000VS5489B1VV4JLPLE
 LOCATION:Rasenplatz\, FV Tiefenbronn\, Alte Wimsheimer Str. 5/2\, 75233 T
@@ -168,15 +219,15 @@ LOCATION:Rasenplatz\, FV Tiefenbronn\, Alte Wimsheimer Str. 5/2\, 75233 T
 END:VEVENT
 BEGIN:VEVENT
 UID:fussballde-320236039@homeassistant.local
-DTSTAMP:20260828T110508Z
-LAST-MODIFIED:20260828T110508Z
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
 SEQUENCE:0
 DTSTART;TZID=Europe/Berlin:20261114T174500
 DURATION:PT2H
 SUMMARY:⚽ Kickers Pforzheim 3 – TSV Ötisheim
-DESCRIPTION:Heimspiel · ME\nQuelle: fussball.de\nhttps://www.fussball.de
- /mannschaft/sv-kickers-pforzheim-3-sv-kickers-pforzheim-baden/-/saison/2
- 627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
+DESCRIPTION:Heimspiel · Meisterschaft\nQuelle: fussball.de\nhttps://www.
+ fussball.de/mannschaft/sv-kickers-pforzheim-3-sv-kickers-pforzheim-baden
+ /-/saison/2627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
 URL:https://www.fussball.de/mannschaft/sv-kickers-pforzheim-3-sv-kickers-
  pforzheim-baden/-/saison/2627/team-id/031FEF47D0000000VS5489BSVU7CJV8J
 LOCATION:Kunstrasenplatz\, Sportanlage Wilferdinger Höhe (Kunstrasen)\, 
@@ -184,15 +235,15 @@ LOCATION:Kunstrasenplatz\, Sportanlage Wilferdinger Höhe (Kunstrasen)\,
 END:VEVENT
 BEGIN:VEVENT
 UID:fussballde-320236042@homeassistant.local
-DTSTAMP:20260828T110508Z
-LAST-MODIFIED:20260828T110508Z
+DTSTAMP:20260925T212819Z
+LAST-MODIFIED:20260925T212819Z
 SEQUENCE:0
 DTSTART;TZID=Europe/Berlin:20261121T150000
 DURATION:PT2H
 SUMMARY:⚽ JSG Stromberg/​Knittlingen – Kickers Pforzheim 3
-DESCRIPTION:Auswärtsspiel · ME\nQuelle: fussball.de\nhttps://www.fussba
- ll.de/mannschaft/jsg-stromberg-knittlingen-tsv-maulbronn-baden/-/saison/
- 2627/team-id/02TPVJQNAC000000VS5489BRVSS9M1SM
+DESCRIPTION:Auswärtsspiel · Meisterschaft\nQuelle: fussball.de\nhttps:/
+ /www.fussball.de/mannschaft/jsg-stromberg-knittlingen-tsv-maulbronn-bade
+ n/-/saison/2627/team-id/02TPVJQNAC000000VS5489BRVSS9M1SM
 URL:https://www.fussball.de/mannschaft/jsg-stromberg-knittlingen-tsv-maul
  bronn-baden/-/saison/2627/team-id/02TPVJQNAC000000VS5489BRVSS9M1SM
 LOCATION:Rasenplatz\, TSV Maulbronn\, Sportzentrum\, 75433 Maulbronn
